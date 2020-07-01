@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MinecraftAsssetsExport.iml" filepath="$PROJECT_DIR$/MinecraftAsssetsExport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinecraftAssetsExport.iml" filepath="$PROJECT_DIR$/MinecraftAssetsExport.iml" />
     </modules>
   </component>
 </project>
