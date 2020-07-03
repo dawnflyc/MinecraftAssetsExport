@@ -1,8 +1,6 @@
-# **MinecraftAssetsExport**
+﻿# **MinecraftAssetsExport**
 
-------
-
-![GitHub release](https://img.shields.io/badge/release-v1.0-red)
+[![GitHub release](https://img.shields.io/badge/release-v1.0-red)](https://github.com/dawnflyc/MinecraftAssetsExport/releases)
 
 #### 介绍
 
